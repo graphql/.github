@@ -1,4 +1,5 @@
 # .github
+
 Default community health files for GraphQL Foundation
 
 # Contributing to this repo
